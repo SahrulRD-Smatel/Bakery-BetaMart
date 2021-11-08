@@ -1,0 +1,94 @@
+Log starts
+The Error Occured at 12/3/2016 9:32:50 AM :: Could not find file 'C:\Users\janobe\Documents\Visual Studio 2008\Projects\AureliusBakeShop.v.0.0.1\AureliusBakeShop.v.0.0.1\bin\Debug\dbAuriluis.accdb'. at txtAutoComplete sub Procedure
+The Error Occured at 12/3/2016 9:33:54 AM :: Could not find file 'C:\Users\janobe\Documents\Visual Studio 2008\Projects\AureliusBakeShop.v.0.0.1\AureliusBakeShop.v.0.0.1\bin\Debug\dbAuriluis.accdb'. at txtAutoComplete sub Procedure
+The Error Occured at 12/3/2016 9:34:30 AM :: Could not find file 'C:\Users\janobe\Documents\Visual Studio 2008\Projects\AureliusBakeShop.v.0.0.1\AureliusBakeShop.v.0.0.1\bin\Debug\dbAuriluis.accdb'. at retrieveSingleResult sub Procedure
+The Error Occured at 12/3/2016 9:35:55 AM :: Could not find file 'C:\Users\janobe\Documents\Visual Studio 2008\Projects\AureliusBakeShop.v.0.0.1\AureliusBakeShop.v.0.0.1\bin\Debug\dbAuriluis.accdb'. at txtAutoComplete sub Procedure
+The Error Occured at 12/3/2016 9:42:17 AM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/3/2016 9:45:27 AM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/3/2016 9:45:30 AM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/3/2016 9:57:53 AM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/3/2016 9:59:03 AM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/3/2016 10:00:10 AM :: No value given for one or more required parameters. at retrieveSingleResult sub Procedure
+The Error Occured at 12/3/2016 10:00:58 AM :: No value given for one or more required parameters. at retrieveSingleResult sub Procedure
+The Error Occured at 12/3/2016 10:29:56 AM :: Data type mismatch in criteria expression. at retrieveSingleResult sub Procedure
+The Error Occured at 12/3/2016 10:30:26 AM :: The Microsoft Office Access database engine cannot find the input table or query 'tblCategory'.  Make sure it exists and that its name is spelled correctly. at retrieve sub Procedure
+The Error Occured at 12/3/2016 10:30:30 AM :: The Microsoft Office Access database engine cannot find the input table or query 'tblCategory'.  Make sure it exists and that its name is spelled correctly. at retrieve sub Procedure
+The Error Occured at 12/3/2016 10:39:02 AM :: The Microsoft Office Access database engine cannot find the input table or query 'tblCategory'.  Make sure it exists and that its name is spelled correctly. at retrieve sub Procedure
+The Error Occured at 12/3/2016 10:42:22 AM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/3/2016 11:00:01 AM :: No value given for one or more required parameters. at retrieveSingleResult sub Procedure
+The Error Occured at 12/3/2016 11:00:06 AM :: No value given for one or more required parameters. at retrieveSingleResult sub Procedure
+The Error Occured at 12/3/2016 11:10:36 AM :: The Microsoft Office Access database engine cannot find the input table or query 'tblCategory'.  Make sure it exists and that its name is spelled correctly. at retrieve sub Procedure
+The Error Occured at 12/3/2016 11:14:52 AM :: The Microsoft Office Access database engine cannot find the input table or query 'tblCategory'.  Make sure it exists and that its name is spelled correctly. at retrieve sub Procedure
+The Error Occured at 12/3/2016 11:17:49 AM :: The specified field 'PROCODE' could refer to more than one table listed in the FROM clause of your SQL statement. at retrieve sub Procedure
+The Error Occured at 12/3/2016 11:19:26 AM :: The Microsoft Office Access database engine cannot find the input table or query 'tblCategory'.  Make sure it exists and that its name is spelled correctly. at retrieve sub Procedure
+The Error Occured at 12/3/2016 11:31:16 AM :: No value given for one or more required parameters. at cudfunction sub Procedure
+The Error Occured at 12/3/2016 11:33:09 AM :: Syntax error (missing operator) in query expression 'P.PROID=S.PROID AND TRANSNUM ='. at cudfunction sub Procedure
+The Error Occured at 12/3/2016 11:33:10 AM :: Syntax error (missing operator) in query expression 'TRANSNUM ='. at cudfunction sub Procedure
+The Error Occured at 12/3/2016 11:36:41 AM :: The INSERT INTO statement contains the following unknown field name: 'CATEGPROID'.  Make sure you have typed the name correctly, and try the operation again. at cudfunction sub Procedure
+The Error Occured at 12/3/2016 11:45:35 AM :: No value given for one or more required parameters. at cudfunction sub Procedure
+The Error Occured at 12/3/2016 11:45:36 AM :: No value given for one or more required parameters. at cudfunction sub Procedure
+The Error Occured at 12/3/2016 11:45:37 AM :: No value given for one or more required parameters. at cudfunction sub Procedure
+The Error Occured at 12/3/2016 11:45:38 AM :: No value given for one or more required parameters. at cudfunction sub Procedure
+The Error Occured at 12/3/2016 11:45:38 AM :: No value given for one or more required parameters. at cudfunction sub Procedure
+The Error Occured at 12/3/2016 11:48:24 AM :: No value given for one or more required parameters. at cudfunction sub Procedure
+The Error Occured at 12/3/2016 11:48:26 AM :: No value given for one or more required parameters. at cudfunction sub Procedure
+The Error Occured at 12/3/2016 11:48:27 AM :: No value given for one or more required parameters. at cudfunction sub Procedure
+The Error Occured at 12/3/2016 11:48:27 AM :: No value given for one or more required parameters. at cudfunction sub Procedure
+The Error Occured at 12/3/2016 11:49:55 AM :: The table 'tblStockOut' is already opened exclusively by another user, or it is already open through the user interface and cannot be manipulated programmatically. at cudfunction sub Procedure
+The Error Occured at 12/3/2016 11:49:58 AM :: No value given for one or more required parameters. at cudfunction sub Procedure
+The Error Occured at 12/3/2016 11:51:36 AM :: The Microsoft Office Access database engine cannot find the input table or query 'tblCategory'.  Make sure it exists and that its name is spelled correctly. at txtAutoComplete sub Procedure
+The Error Occured at 12/3/2016 11:51:38 AM :: The Microsoft Office Access database engine cannot find the input table or query 'tblCategory'.  Make sure it exists and that its name is spelled correctly. at retrieve sub Procedure
+The Error Occured at 12/3/2016 12:14:44 PM :: The SELECT statement includes a reserved word or an argument name that is misspelled or missing, or the punctuation is incorrect. at retrieveSingleResult sub Procedure
+The Error Occured at 12/4/2016 2:05:27 PM :: Syntax error (missing operator) in query expression 'P.CATEGPROID=C.CATEGPROID AND C.CATEGPROID = AND PRONAME LIKE '%%''. at retrieve sub Procedure
+The Error Occured at 12/4/2016 2:07:03 PM :: Syntax error (missing operator) in query expression 'P.CATEGPROID=C.CATEGPROID AND C.CATEGPROID = AND PRONAME LIKE '%%''. at retrieve sub Procedure
+The Error Occured at 12/4/2016 2:07:13 PM :: Syntax error (missing operator) in query expression 'P.CATEGPROID=C.CATEGPROID AND C.CATEGPROID = AND PRONAME LIKE '%%''. at retrieve sub Procedure
+The Error Occured at 12/5/2016 10:35:53 AM :: Syntax error (missing operator) in query expression 'P.CATEGPROID=C.CATEGPROID AND C.CATEGPROID = AND PRONAME LIKE '%%''. at retrieve sub Procedure
+The Error Occured at 12/5/2016 10:35:58 AM :: Syntax error (missing operator) in query expression 'S.PROID=P.PROID AND  P.CATEGPROID=C.CATEGPROID AND C.CATEGPROID = AND PRONAME LIKE '%%''. at retrieve sub Procedure
+The Error Occured at 12/5/2016 10:50:16 AM :: The Microsoft Office Access database engine cannot find the input table or query 'tblCategory'.  Make sure it exists and that its name is spelled correctly. at retrieve sub Procedure
+The Error Occured at 12/5/2016 10:50:19 AM :: The Microsoft Office Access database engine cannot find the input table or query 'tblCategory'.  Make sure it exists and that its name is spelled correctly. at retrieve sub Procedure
+The Error Occured at 12/5/2016 11:15:52 AM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 11:15:57 AM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 11:16:03 AM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 11:17:31 AM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 11:17:40 AM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 11:17:46 AM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 11:19:13 AM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 11:19:59 AM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 11:21:02 AM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 1:12:00 PM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 1:12:08 PM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 1:13:56 PM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 1:14:05 PM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 1:14:07 PM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 1:14:10 PM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 1:14:12 PM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 1:18:45 PM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 1:20:10 PM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 1:20:40 PM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 1:22:25 PM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 1:22:30 PM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 1:24:32 PM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 1:25:25 PM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/5/2016 1:25:31 PM :: No value given for one or more required parameters. at retrieve sub Procedure
+The Error Occured at 12/22/2016 8:16:32 PM :: The SELECT statement includes a reserved word or an argument name that is misspelled or missing, or the punctuation is incorrect. at retrieveSingleResult sub Procedure
+The Error Occured at 12/22/2016 8:16:35 PM :: The SELECT statement includes a reserved word or an argument name that is misspelled or missing, or the punctuation is incorrect. at retrieveSingleResult sub Procedure
+The Error Occured at 9/4/2018 5:14:23 PM :: Undefined function 'Password' in expression. at cudfunction sub Procedure
+The Error Occured at 9/8/2018 11:52:24 AM :: The type initializer for 'BakeshopInventorySystem.config' threw an exception. at txtAutoNumber sub Procedure
+The Error Occured at 9/8/2018 11:57:15 AM :: The type initializer for 'BakeshopInventorySystem.config' threw an exception. at txtAutoNumber sub Procedure
+The Error Occured at 9/8/2018 12:07:11 PM :: The type initializer for 'BakeshopInventorySystem.config' threw an exception. at retrieve sub Procedure
+The Error Occured at 9/8/2018 12:11:38 PM :: The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine. at txtAutoNumber sub Procedure
+The Error Occured at 9/8/2018 12:11:52 PM :: The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine. at retrieve sub Procedure
+The Error Occured at 9/8/2018 12:13:32 PM :: Unrecognized database format 'C:\Users\janobe\Documents\Visual Studio 2015\Projects\BakeshopInventorySystem\BakeshopInventorySystem\bin\Debug\dbBakeshop.accdb'. at txtAutoNumber sub Procedure
+The Error Occured at 9/8/2018 12:15:32 PM :: The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine. at retrieve sub Procedure
+The Error Occured at 9/8/2018 12:17:26 PM :: The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine. at retrieve sub Procedure
+The Error Occured at 9/8/2018 12:26:59 PM :: Cannot open database ''.  It may not be a database that your application recognizes, or the file may be corrupt. at retrieve sub Procedure
+The Error Occured at 9/8/2018 12:27:33 PM :: Cannot open database ''.  It may not be a database that your application recognizes, or the file may be corrupt. at retrieve sub Procedure
+The Error Occured at 9/8/2018 12:30:47 PM :: Cannot open database ''.  It may not be a database that your application recognizes, or the file may be corrupt. at retrieve sub Procedure
+The Error Occured at 9/8/2018 12:30:53 PM :: Cannot open database ''.  It may not be a database that your application recognizes, or the file may be corrupt. at retrieve sub Procedure
+The Error Occured at 9/8/2018 12:31:43 PM :: Cannot open database ''.  It may not be a database that your application recognizes, or the file may be corrupt. at retrieve sub Procedure
+The Error Occured at 9/8/2018 12:32:01 PM :: Cannot open database ''.  It may not be a database that your application recognizes, or the file may be corrupt. at txtAutoNumber sub Procedure
+The Error Occured at 9/8/2018 12:35:17 PM :: Cannot open database ''.  It may not be a database that your application recognizes, or the file may be corrupt. at retrieve sub Procedure
+The Error Occured at 9/8/2018 12:37:59 PM :: Cannot open database ''.  It may not be a database that your application recognizes, or the file may be corrupt. at retrieve sub Procedure
+The Error Occured at 9/8/2018 12:40:34 PM :: The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine. at retrieve sub Procedure
+The Error Occured at 9/8/2018 12:43:21 PM :: Cannot open database ''.  It may not be a database that your application recognizes, or the file may be corrupt. at retrieve sub Procedure
+The Error Occured at 9/8/2018 12:44:22 PM :: Cannot open database ''.  It may not be a database that your application recognizes, or the file may be corrupt. at retrieve sub Procedure

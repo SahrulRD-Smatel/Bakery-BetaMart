@@ -1,0 +1,240 @@
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\BakeryInventorySystem.exe.config
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\BakeryInventorySystem.exe
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\BakeryInventorySystem.pdb
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.csprojResolveAssemblyReference.cache
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.Form1.resources
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.Properties.Resources.resources
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.csproj.GenerateResource.Cache
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.exe
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.pdb
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\MySql.Data.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\Google.Protobuf.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\MySql.Data.xml
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmProduct.resources
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmListofProducts.resources
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmEditProduct.resources
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmStockin.resources
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmListStockin.resources
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmStockout.resources
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmListStockout.resources
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmUser.resources
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmInventoryReports.resources
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportSource.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.Shared.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\FlashControlV71.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\ShockwaveFlashObjects.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\bin\Debug\stdole.dll
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmPrint.resources
+c:\users\win10\documents\visual studio 2015\Projects\BakeryInventorySystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmLogin.resources
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\BakeryInventorySystem.exe.config
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\BakeryInventorySystem.exe
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\BakeryInventorySystem.pdb
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\MySql.Data.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\ShockwaveFlashObjects.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\Google.Protobuf.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\Zstandard.Net.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\BouncyCastle.Crypto.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\Ubiety.Dns.Core.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\Renci.SshNet.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\stdole.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\System.Buffers.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\K4os.Compression.LZ4.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\K4os.Hash.xxHash.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\System.Memory.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\bin\Debug\MySql.Data.xml
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.csprojAssemblyReference.cache
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.exe.config
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.Form1.resources
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmEditProduct.resources
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmInventoryReports.resources
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmListofProducts.resources
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmListStockin.resources
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmListStockout.resources
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmLogin.resources
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmPrint.resources
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmProduct.resources
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmStockin.resources
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmStockout.resources
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmUser.resources
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.Properties.Resources.resources
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.csproj.GenerateResource.cache
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.csproj.CoreCompileInputs.cache
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.csproj.CopyComplete
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.exe
+D:\UKK\Betamart\bakeryinventorysystem\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.pdb
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\BakeryInventorySystem.exe.config
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\BakeryInventorySystem.exe
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\BakeryInventorySystem.pdb
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\MySql.Data.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\ShockwaveFlashObjects.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\Google.Protobuf.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\Zstandard.Net.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\BouncyCastle.Crypto.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\Ubiety.Dns.Core.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\Renci.SshNet.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\stdole.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\System.Buffers.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\K4os.Compression.LZ4.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\K4os.Hash.xxHash.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\System.Memory.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\MySql.Data.xml
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.csprojAssemblyReference.cache
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.exe.config
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.Form1.resources
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmEditProduct.resources
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmInventoryReports.resources
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmListofProducts.resources
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmListStockin.resources
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmListStockout.resources
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmLogin.resources
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmPrint.resources
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmProduct.resources
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmStockin.resources
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmStockout.resources
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmUser.resources
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.Properties.Resources.resources
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.csproj.GenerateResource.cache
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.csproj.CoreCompileInputs.cache
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.csproj.CopyComplete
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.exe
+D:\UKK\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.pdb
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\BakeryInventorySystem.exe.config
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\BakeryInventorySystem.exe
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\BakeryInventorySystem.pdb
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\Google.Protobuf.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\Zstandard.Net.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\Renci.SshNet.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\stdole.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\System.Buffers.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\System.Memory.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\bin\Debug\MySql.Data.xml
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.csprojAssemblyReference.cache
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.exe.config
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.Form1.resources
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmEditProduct.resources
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmInventoryReports.resources
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmListofProducts.resources
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmListStockin.resources
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmListStockout.resources
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmLogin.resources
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmPrint.resources
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmProduct.resources
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmStockin.resources
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmStockout.resources
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmUser.resources
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.Properties.Resources.resources
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.csproj.GenerateResource.cache
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.csproj.CopyComplete
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.exe
+C:\Users\dani\source\repos\BakeryBetaMart(BBM)\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.pdb
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\BakeryInventorySystem.exe.config
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\BakeryInventorySystem.exe
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\BakeryInventorySystem.pdb
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\Google.Protobuf.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\Zstandard.Net.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\Renci.SshNet.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\stdole.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\System.Buffers.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\System.Memory.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\bin\Debug\MySql.Data.xml
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.csprojAssemblyReference.cache
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.exe.config
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.Form1.resources
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmEditProduct.resources
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmInventoryReports.resources
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmListofProducts.resources
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmListStockin.resources
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmListStockout.resources
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmLogin.resources
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmPrint.resources
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmProduct.resources
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmStockin.resources
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmStockout.resources
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.frmUser.resources
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.Properties.Resources.resources
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.csproj.GenerateResource.cache
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.csproj.CopyComplete
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.exe
+C:\Users\dani\source\repos\Indo Bakery\BakeryInventorySystem\obj\Debug\BakeryInventorySystem.pdb
